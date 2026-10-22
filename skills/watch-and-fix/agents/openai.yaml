@@ -1,0 +1,4 @@
+interface:
+  display_name: "Watch & Fix"
+  short_description: "Debug software from screen recordings and voice notes"
+  default_prompt: "Use $watch-and-fix to inspect this recording, reproduce the reported bug in this repository, and verify the fix."
