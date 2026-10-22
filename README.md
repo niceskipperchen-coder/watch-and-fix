@@ -14,6 +14,14 @@ Upload a recording to your coding agent and ask:
 
 Watch & Fix helps the agent distinguish what the recording **shows**, what you **say**, and what the code **confirms**. It calls for a targeted replay before claiming success.
 
+## Demo
+
+[![Watch & Fix demo preview](assets/demo-preview.png)](assets/watch-and-fix-demo.mp4)
+
+[Watch the 25-second demo](assets/watch-and-fix-demo.mp4) · [Download MP4](https://raw.githubusercontent.com/niceskipperchen-coder/watch-and-fix/main/assets/watch-and-fix-demo.mp4)
+
+A real recording is inspected around a reported stall. The extracted frames show movement and successful delivery, so the investigation does not establish a bug. This demonstrates the evidence workflow, not an automated fix or a hosted upload interface.
+
 ## Install
 
 Copy [`skills/watch-and-fix`](skills/watch-and-fix) into your coding agent's skills directory.
